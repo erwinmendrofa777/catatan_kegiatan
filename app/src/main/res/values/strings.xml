@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">10120019_ToDo</string>
+    <string name="textview1">TextView</string>
+    <string name="textview">TextView</string>
+
+
+    <string name="hello_blank_fragment">
+
+
+                <h6>author: Prashant Singh Basnet</h6>
+                <h6>Level 6 TheBritishCollege LeedsBeckettUniversity DevelopingMobileApp  Mar 31 2021</h6>
+            <br />
+            <h6>Copyright PrashantSinghBasnet</h6>
+                <br>Https://github.com/PrashantSBasnet/ToDoApp_Android</br>
+
+
+
+
+    </string>
+
+
+    <string name="aboutdetails">
+
+
+    This is a simple Todo App that allows user to enter, delete and update their tasks.
+    The floating button with sign in it guides the user to a form.The Form is used for adding todo tasks.
+    The form does not allow user to leave the title field blank.The user can navigate back to thehome page using back icon on the app bar.
+    Swiping the todo list on either direction deletes the task.Clicking the item directs user to the update form.
+    The app bar in the update page has a drop down menu. Share menu item in the Appbar of update page allows user to share the todo item with other device.
+    Most of the features are self-explanatory
+
+
+
+
+    </string>
+
+
+    <string name="no_todo">No Todo</string>
+    <string name="main_activity_name">All Tasks</string>
+    <string name="add_task_activity_name">Add a New Task</string>
+    <string name="About">About the App</string>
+
+</resources>
