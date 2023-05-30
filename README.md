@@ -61,21 +61,3 @@ Fig: MVVM Implementation
 <br>
 
 ![overall __app](https://user-images.githubusercontent.com/50170332/113402457-bf763400-93c4-11eb-953a-3650935d08cf.gif)
-
-
-<h3>References:</h3>
-I have used the following sources to create this application:
-
-<ul>
-  
-  <li> Subject Teacher: Mr. Binay Shah https://github.com/binay-shah for understanding the basics of MVVM and CRUD operation</li>
-  <li> Developer Guide | Android Developers https://developer.android.com/guide </li>
-  <li> w3schools for core Java concepts https://www.w3schools.com</li>
-  <li> Design Patterns from https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm </li>
-  </ul>
-
-<br>author: Prashant Singh Basnet
-<br>C7205072 LEVEL 6 Developing Mobile App Assignment </br>
-<br>The British College </br>
-<br>Leeds Beckett University</br>
-
